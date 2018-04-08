@@ -1,9 +1,9 @@
 
 TITLE: 
-Blend - Fully Responsive Free HTML5 template
+Shift - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -36,21 +36,10 @@ https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 animate.css
 http://daneden.me/animate
 
-jQuery Waypoints
+jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Demo Images:
-http://pexels.com
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-jQuery counTo
-https://github.com/mhuggins/jquery-countTo
-
-Google Map
-https://maps.google.com/
+http://unsplash.com
+http://blog.gessato.com
 
