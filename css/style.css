@@ -456,6 +456,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .work {
   margin-bottom: 40px;
 }
+
+
 .work .work-grid {
   background-size: cover;
   background-position: center center;
@@ -467,6 +469,12 @@ h1, h2, h3, h4, h5, h6, figure {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 .work .work-grid .inner {
   display: table;
   height: 300px;
@@ -477,6 +485,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+
 @media screen and (max-width: 768px) {
   .work .work-grid .inner {
     opacity: 1;
